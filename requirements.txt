@@ -6,7 +6,7 @@ stop_words
 gensim==0.13.1
 Pattern==2.6
 ipdb==0.10.1
-Scrapy==1.2.1
+Scrapy==1.8.1
 html2text==2016.9.19
 pdfminer==20140328
 requests_cache
