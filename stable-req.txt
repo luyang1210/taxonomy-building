@@ -18,7 +18,7 @@ ipython-genutils==0.1.0
 lda==1.0.4
 lxml==3.6.1
 nltk==3.2.1
-numpy==1.11.1
+numpy==1.21.0
 parsel==1.0.3
 pathlib2==2.1.0
 Pattern==2.6
