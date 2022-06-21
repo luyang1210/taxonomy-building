@@ -1,6 +1,6 @@
 pandas==0.18.1
 nltk==3.2.1
-numpy==1.11.2
+numpy==1.22.0
 lda==1.0.4
 stop_words
 gensim==0.13.1
